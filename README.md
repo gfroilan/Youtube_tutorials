@@ -13,4 +13,9 @@ Day 2: Build a Music Player | Vanilla JavaScript[https://www.youtube.com/watch?v
 
 Day 3: Build a Task List Page | HTML/CSS/JS [https://learning.oreilly.com/videos/modern-javascript-from/9781789539509/9781789539509-video4_2?autoplay=false]
 (Tutorial from Traversy Media, Brad Traversy)
-   * Progress: WIP Part 2/3
+   * Progress: Tutorial Complete
+   * Ways I can build onto this project:
+
+      ** Customize tasklist for myself and make recommendations based on the daily tasks I do
+      
+      ** Make tasklist into grocery list
